@@ -1,0 +1,10 @@
+.github/
+public/
+playground-temp/
+dist/
+temp/
+LICENSE.md
+README.md
+package-lock.json
+package.json
+.prettierrc.json
