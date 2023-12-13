@@ -1,1 +1,1 @@
-console.lo("test")
+console.lo('test')
