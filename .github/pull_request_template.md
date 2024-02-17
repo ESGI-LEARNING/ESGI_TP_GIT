@@ -4,7 +4,7 @@
 
 ## Checklist
 
-[ ] le code est bon ?
-[ ] es-tu sûr ?
+- [ ] le code est bon ?
+- [ ] es-tu sûr ?
 
 ## Additional Notes
