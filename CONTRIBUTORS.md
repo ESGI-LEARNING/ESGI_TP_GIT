@@ -1,6 +1,6 @@
 # Contributeurs
 
-## Merci à tous les contributeurs qui ont oeuvré sur ce projet !
+## Merci à tous les contributeurs qui ont participé à ce projet
 
 * [Philippe](https://github.com/PhilDaiguille)
 * [Theo](https://github.com/TheoMeunier)
